@@ -280,12 +280,12 @@ MonoBehaviour:
   PointBTransform: {fileID: 42607443}
   PointCTransform: {fileID: 1908175156}
   PointDTransform: {fileID: 1566725752}
-  T: 1
-  PointRadius: 0.299
+  T: 0
+  PointRadius: 0.3
   CurveResolution: 50
   RenderCurve: 1
   RenderPoints: 1
-  RenderHandles: 0
+  RenderHandles: 1
   RenderInterpolation: 1
 --- !u!4 &493776305
 Transform:
@@ -528,7 +528,7 @@ MonoBehaviour:
   RenderHandles: 1
   RenderInterpolation: 0
   StackVectors: 1
-  RenderTangent: 1
+  RenderTangent: 0
   TangentLength: 0.77
   RenderPath: 1
 --- !u!4 &1985820319
